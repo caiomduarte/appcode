@@ -1,0 +1,10 @@
+
+<View style={styles.campoForm}>
+                    <TextInput style={styles.textForm} placeholder="Descrição"/>
+                    <TouchableOpacity style={styles.botaoArquivo}>
+                        <Text style={styles.textBotaoArquivo}>Selecionar Arquivo</Text>
+                    </TouchableOpacity>
+                    <TouchableOpacity style={styles.button}>
+                        <Text style={styles.textButton}>PUBLICAR</Text>
+                    </TouchableOpacity>
+                </View>
